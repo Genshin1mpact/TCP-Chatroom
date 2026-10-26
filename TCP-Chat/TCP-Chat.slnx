@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="TCP-Chat/TCP-Chat.vcxproj" Id="88cf66a1-180c-469f-a92e-37e6ffdf2588" />
-</Solution>

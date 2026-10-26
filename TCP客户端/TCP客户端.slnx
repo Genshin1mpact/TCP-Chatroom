@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="TCP客户端/TCP客户端.vcxproj" Id="86a93645-6da7-4e7a-a7c6-a06c833736bd" />
-</Solution>
