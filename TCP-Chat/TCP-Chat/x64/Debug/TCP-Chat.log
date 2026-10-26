@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\CppFiles\TCP-Chat\TCP-Chat\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\CppFiles\TCP-Chat\TCP-Chat\main.cpp(33,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\CppFiles\TCP-Chat\TCP-Chat\main.cpp(58,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  TCP-Chat.vcxproj -> D:\CppFiles\TCP-Chat\x64\Debug\TCP-Chat.exe
